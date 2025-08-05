@@ -10,10 +10,10 @@
   <br>
   <div style="margin:0 auto;text-align:center" align="center">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -25,8 +25,11 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=Poetry&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/Zustand-826b6b?style=flat&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=white">
   </div>
 </div>
