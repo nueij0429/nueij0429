@@ -48,11 +48,13 @@
   <div align="center"></div>
 </div>
 <div align="center">
-  <h2 style="border-bottom:1px solid #d8dee4;color:#282d33">🏅 Stats</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nueij0429&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nueij0429&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000">
-  </div>
+  <h2 style="border-bottom:1px solid #d8dee4;color:#282d33">📖 Certifications</h2>
+
+| 자격증 | 발급 기관 |
+|--------|-----------|
+| SQLD (SQL Developer) | 한국데이터산업진흥원 |
+| 정보처리산업기사 | 한국산업인력공단 |
+
 </div>
 <div align="center">
   <h2 style="border-bottom:1px solid #d8dee4;color:#282d33">📈 Activity Graph</h2>
